@@ -21,6 +21,6 @@ For testing app input in console
 ```mvn test```
 
 ## Forward Link
-You can download compiled and assembled jar file  by [link](https://drive.google.com/file/d/1bLHL-UwshMeqOKV4gChwamgKJcAYvEHR/view?usp=sharing).  
+You can download compiled and assembled jar file  by [link](https://drive.google.com/file/d/1GhzITzWXj5SXG9Mvh1OEJl7JM6REfXv6/view?usp=sharing).  
 For launching app input in console  
 ```java -jar (path-to-jar-file)/SuperSoft-1.0.jar (path-input-file-for-parsing)```
